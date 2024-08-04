@@ -59,5 +59,10 @@ Weather Data Analysis
  Weather Conditions: The data set uncovers different weather scenarios that include the number of days that are clear and the days with snow. 
  Summaries: This provided the required mean visibility and occurrence of specific conditions in the given frequency. 
  Data Filtering: Other weather types arre partitioned regarding such parameters as wind velocity and moistness. 
+
+ 
  Conclusion 
  This project includes a detailed weather data analysis with exploiting Python and SQL. Therefore, it is possible to utilize the results of this work for the further investigation of weather conditions and their changes.
+
+ License
+This project is licensed under the MIT License. See the LICENSE file for details.
